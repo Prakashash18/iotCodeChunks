@@ -1,5 +1,5 @@
-void setup("Testing") {
-  Serial1.printn("Hello There");
+void setup() {
+  Serial1.println("Hello There");
   Serial1.print("This is very awesome");
 
 }
